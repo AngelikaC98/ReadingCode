@@ -1,5 +1,11 @@
 
 /*do you remember how to do comments in css?*/
+
+/* If we wonna add some specific style on our text or color etc we need to open the class example on this <h1> 
+which is on level 3 html like this <h1 class="nameOfThisClass" and after that we can open this class on our stylistic level3.css. 
+As we finished name on it we need write .nameOfThisClass{}. Inside this sign {} we can created some specific style like color, fonts, 
+backround color etc. */
+
 .different{
     color: #00FF00;
 }
